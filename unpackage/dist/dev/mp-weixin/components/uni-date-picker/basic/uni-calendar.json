@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "calendar-item": "/components/uni-date-picker/basic/uni-calendar-item"
+  }
+}
